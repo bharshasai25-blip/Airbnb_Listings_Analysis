@@ -1,7 +1,16 @@
 # Airbnb_Listings_Analysis
 In this project we will do a detailed comparison analysis between the airbnb listings of Chicago and New Orleans using tools like power bi and power query editor.
 <img width="1410" height="784" alt="Screenshot 2026-03-03 153900" src="https://github.com/user-attachments/assets/73f3bc10-28a0-484e-abcb-67b9f7ba8d5f" />
+#Objectives:
+The primary goals of this project are:
 
+* Compare Airbnb market performance between Chicago and New Orleans
+* Analyze pricing trends and distribution
+* Understand neighborhood-level performance
+* Examine room type dominance (Entire Home, Private Room, Shared Room)
+* Evaluate host activity and listing concentration
+* Identify revenue and availability patterns
+* The project supports data-driven decision-making for potential hosts, investors, and market analysts.
 
 <img width="1416" height="793" alt="Screenshot 2026-03-03 154103" src="https://github.com/user-attachments/assets/3dc18cab-4cb5-433e-bd40-f2481ccc5471" />
 <img width="1411" height="793" alt="Screenshot 2026-03-03 154126" src="https://github.com/user-attachments/assets/3e30bf41-45a0-47f5-ae3c-f6d59ab2054e" />
