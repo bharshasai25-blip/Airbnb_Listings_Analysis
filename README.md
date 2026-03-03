@@ -1,5 +1,52 @@
 # Airbnb_Listings_Analysis
 In this project we will do a detailed comparison analysis between the airbnb listings of Chicago and New Orleans using tools like power bi and power query editor.
+# Key Components:
+1} Data Preparation:
+* Cleaning and formatting price fields
+* Handling null and missing values
+* Creating calculated columns
+* Structuring city-based segmentation
+
+Transforming raw listing data into analysis-ready format
+
+2} Data Modeling:
+* Structured relationships between listings and relevant dimensions
+* Optimized model for performance
+* Use of star-schema–like structure for clarity and scalability
+
+3} DAX Measures & KPIs:
+The report likely includes key metrics such as:
+* Average Price per City
+* Total Listings
+* Listings by Room Type
+* Listings by Neighborhood
+* Host Listing Counts
+* Estimated Revenue Metrics
+* Review Counts and Availability Trends
+# Dashboard Insights:
+The project likely answers questions such as:
+* Which city has a higher average listing price?
+* Which neighborhoods command premium rates?
+* What room type dominates each city?
+* How concentrated are listings among top hosts?
+* How does availability influence pricing?
+# Business Value:
+* This project demonstrates the ability to:
+* Perform comparative market analysis
+* Build interactive dashboards
+* Create business-relevant KPIs
+* Translate raw data into strategic insights
+* Use Power BI for professional reporting
+
+The findings could assist:
+* Real estate investors
+* Airbnb hosts
+* Market analysts
+* Hospitality consultants
+# Project Summary:
+This Power BI project analyzes and compares Airbnb listing data from Chicago and New Orleans. It explores pricing trends, room type distribution, neighborhood performance, and host activity to provide actionable insights into short-term rental market dynamics. Through structured data modeling and DAX-based KPIs, the dashboard enables interactive and data-driven comparison between the two cities.
+
+The comparison between two cities enhances the analytical depth, providing stronger market insight than a single-city study.
 <img width="1410" height="784" alt="Screenshot 2026-03-03 153900" src="https://github.com/user-attachments/assets/73f3bc10-28a0-484e-abcb-67b9f7ba8d5f" />
 # Objectives:
 The primary goals of this project are:
